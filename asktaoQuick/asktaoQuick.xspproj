@@ -1,0 +1,12 @@
+[SOURCE]
+1\SOURCEFILE=//Mac/Home/Documents/xspworkspace/asktaoQuick/xsp/src/main.lua
+size=3
+2\SOURCEFILE=//Mac/Home/Documents/xspworkspace/asktaoQuick/xsp/src/autoMainTask.lua
+3\SOURCEFILE=//Mac/Home/Documents/xspworkspace/asktaoQuick/xsp/src/common.lua
+
+[UI]
+1\UIFILE=//Mac/Home/Documents/xspworkspace/asktaoQuick/xsp/ui/ui.json
+size=1
+
+[RES]
+size=0
